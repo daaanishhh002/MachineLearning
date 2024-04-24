@@ -1,7 +1,7 @@
 # Machine Learning
 This is a collection of all the machine learning techniques required in any machine learning project. It contains detailed descriptions, videos, book recommendations, and additional material to properly grasp all the concepts. It also contains implementations in various frameworks.
 
-## Basics
+## Introduction to Machine Learning
 1. What is Machine Learning?
 2. Types of Machine Learning
 3. Applications of Machine Learning
