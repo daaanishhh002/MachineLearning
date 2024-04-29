@@ -12,9 +12,11 @@ Mentioned below are a list of the top most used machine learning techniques. The
 8. Decision Trees
 9. Random Forests
 10. Bagging
-11. Adaboost
+11. AdaBoost
 12. Gradient Boosting
 13. XGBoost
+14. LightGBM
+15. CatBoost
 
 ## Unsupervised Algorithms
 1. K Means Clustering
