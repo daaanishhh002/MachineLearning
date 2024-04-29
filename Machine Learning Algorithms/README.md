@@ -1,5 +1,7 @@
 # Machine Learning Algorithms
-Mentioned below are a list of the top most used machine learning techniques. They are categorised based on the level of supervision.
+Mentioned below are a list of the top most used machine learning techniques. They are categorised based on the level of supervision.  
+[Data Science Glossary | Kaggle](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
+
 
 ## Supervised Algorithms
 1. Gradient Descent
