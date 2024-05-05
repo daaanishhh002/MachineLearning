@@ -3,16 +3,19 @@ Mentioned below are a list of the top most used machine learning techniques. The
 [Data Science Glossary | Kaggle](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
 
 
+### The Most Important Algorithm in Machine Learning
+**Gradient Descent**
+
+
 ## Supervised Learning
-1. Gradient Descent
-2. Linear Regression
-3. Regularisation
-4. Logistic Regression
-5. Support Vector Machines
-6. K Nearest Neighbours
-7. Naive Bayes
-8. Decision Trees
-9. Ensemble Methods
+1. Linear Regression
+2. Regularisation
+3. Logistic Regression
+4. Support Vector Machines
+5. K Nearest Neighbours
+6. Naive Bayes
+7. Decision Trees
+8. Ensemble Methods
     - Bagging
     - Boosting
     - Stacking
