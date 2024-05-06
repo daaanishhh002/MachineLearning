@@ -22,13 +22,13 @@ This is a collection of all the machine learning techniques required in any mach
 
 
 ## Machine Learning Algorithms
-1. Supervised Algorithms
-2. Unsupervised Algorithms
-3. Semi Supervised Algorithms
-4. Reinforcement Algorithms
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi Supervised Learning
+4. Reinforcement Learning
 
 
-## Practical Datasets
+## Practicalities of Datasets
 1. Large Datasets
 2. Imbalanced Datasets
 3. Multicollinearity
@@ -39,3 +39,11 @@ This is a collection of all the machine learning techniques required in any mach
 1. Pipelines
 2. Deploying Models
 3. Monitoring Models
+
+
+## End to End Projects
+1. Skills Aggregator
+2. Sentiment Analysis
+3. Gold/Stock Market Prediction
+4. Book/Movie Recommender System
+5. Fake News Investigator

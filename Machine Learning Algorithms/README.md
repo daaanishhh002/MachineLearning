@@ -4,7 +4,7 @@ Mentioned below are a list of the top most used machine learning techniques. The
 
 
 ### The Most Important Algorithm in Machine Learning
-**Gradient Descent**
+`Gradient Descent`
 
 
 ## Supervised Learning
