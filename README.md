@@ -1,7 +1,6 @@
 <h1 align="center">Machine Learning</h1>
 <p>Explore a comprehensive repository covering all essential machine learning techniques and concepts. From feature engineering to model deployment, delve into detailed descriptions, videos, and recommended books. Implementations in various frameworks facilitate practical understanding. Includes end-to-end projects like sentiment analysis and stock market prediction for hands-on learning.</p>
 
-<br>
 
 <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </p>
 
