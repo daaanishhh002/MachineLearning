@@ -9,6 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="120"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="gcp" width="150"/>
     <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png" alt="mlflow" width="120"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter-lab" width="120"/>
 </p>
 
 
