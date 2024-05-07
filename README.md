@@ -1,5 +1,8 @@
-# Machine Learning
-This is a collection of all the machine learning techniques required in any machine learning project. It contains detailed descriptions, videos, book recommendations, and additional material to properly grasp all the concepts. It also contains implementations in various frameworks.
+<h1 align="center">Machine Learning</h1>
+Explore a comprehensive repository covering all essential machine learning techniques and concepts. From feature engineering to model deployment, delve into detailed descriptions, videos, and recommended books. Implementations in various frameworks facilitate practical understanding. Includes end-to-end projects like sentiment analysis and stock market prediction for hands-on learning.
+
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </p>
+
 
 
 ## About Machine Learning
