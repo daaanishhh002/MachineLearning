@@ -3,8 +3,8 @@
 
 
 <p align="center"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="100"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="200"/>
+    <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="scikit-learn" width="100"/>
     <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="xgboost" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="100"/>
     <img src="https://banner2.cleanpng.com/20181106/gjq/kisspng-google-cloud-platform-cloud-computing-g-suite-appl-5be206cd8f3455.2142196015415395335866.jpg" alt="gcp" width="100"/>
