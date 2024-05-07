@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning</h1>
+<h1 align="center">🤖🧠 Machine Learning</h1>
 <p>Explore a comprehensive repository covering all essential machine learning techniques and concepts. From feature engineering to model deployment, delve into detailed descriptions, videos, and recommended books. Implementations in various frameworks facilitate practical understanding. Includes end-to-end projects like sentiment analysis and stock market prediction for hands-on learning.</p>
 
 
@@ -11,7 +11,6 @@
     <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png" alt="mlflow" width="120"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter-lab" width="60"/>
 </p>
-
 
 
 ## About Machine Learning
@@ -27,7 +26,7 @@
 5. Feature Selection
 
 
-## Evaluation Metrics and Model Selection
+## Evaluation Metrics and Model Tuning
 1. Regression Metrics
 2. Classification Metrics
 3. Cross Validation and Hyperparameter Tuning
@@ -40,7 +39,7 @@
 4. Reinforcement Learning
 
 
-## Practicalities of Datasets
+## Practicalities of Real Data
 1. Large Datasets
 2. Imbalanced Datasets
 3. Multicollinearity
