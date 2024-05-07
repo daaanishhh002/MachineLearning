@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-    <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="python" width="100"/>
+    <img src="https://logowik.com/content/uploads/images/python.jpg" alt="python" width="100"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="100"/>
     <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="xgboost" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="100"/>
