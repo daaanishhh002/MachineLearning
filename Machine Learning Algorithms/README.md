@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-Mentioned below are a list of the top most used machine learning techniques. They are categorised based on the level of supervision.  
+Dive into the diverse world of machine learning with this comprehensive guide. From supervised to reinforcement learning, explore top algorithms and techniques, unraveling the mysteries behind linear regression, support vector machines, clustering, and more. Navigate the complexities and unleash the potential of artificial intelligence in this essential resource.  
 [Data Science Glossary | Kaggle](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
 
 
@@ -16,10 +16,10 @@ Mentioned below are a list of the top most used machine learning techniques. The
 6. Naive Bayes
 7. Decision Trees
 8. Ensemble Methods
+    - Voting
     - Bagging
     - Boosting
-    - Stacking
-    - Blending
+    - Stacking and Blending
 
 
 ## Unsupervised Learning
@@ -34,6 +34,8 @@ Mentioned below are a list of the top most used machine learning techniques. The
 
 ## Semi Supervised Learning
 1. Recommendation Systems
+2. Label Propagation
+3. Self Training
 
 
 ## Reinforcement Learning
