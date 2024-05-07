@@ -50,7 +50,7 @@
 
 ## Pipelining, Deploying and Monitoring
 1. Pipelines
-2. Deploying Models
+2. Model Deployment
 3. Monitoring Models
 
 
@@ -59,4 +59,4 @@
 2. Sentiment Analysis
 3. Gold/Stock Market Prediction
 4. Book/Movie Recommender System
-5. Fake News Investigator
+5. Fake News Investigator and more.
