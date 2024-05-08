@@ -24,9 +24,9 @@ Dive into the diverse world of machine learning with this comprehensive guide. F
 
 ## Unsupervised Learning
 1. K Means Clustering
-2. Principal Component Analysis
-3. Hierarchial Clustering
-4. DBSCAN
+2. Hierarchial Clustering
+3. DBSCAN
+4. Principal Component Analysis
 5. t-sne
 6. Anomaly and Novelty Detection
 7. Association Rule
@@ -36,6 +36,9 @@ Dive into the diverse world of machine learning with this comprehensive guide. F
 1. Recommendation Systems
 2. Label Propagation
 3. Self Training
+
+
+## Natural Language Processing
 
 
 ## Reinforcement Learning
