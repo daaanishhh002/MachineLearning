@@ -16,27 +16,23 @@
 ## About Machine Learning
 1. Introduction to Machine Learning
 2. Machine Learning Terminology
+3. Evaluation Metrics
 
 
 ## Feature Engineering
-1. Feature Scaling
-2. Feature Encoding
+1. Feature Construction
+2. Feature Selection
 3. Feature Transformation
-4. Feature Construction
-5. Feature Selection
+4. Feature Scaling 
+5. Feature Encoding
 
 
-## Evaluation Metrics and Model Tuning
-1. Regression Metrics
-2. Classification Metrics
-3. Cross Validation and Hyperparameter Tuning
-
-
-## Machine Learning Algorithms
-1. Supervised Learning
-2. Unsupervised Learning
-3. Semi Supervised Learning
-4. Reinforcement Learning
+## Model Training and Tuning
+1. Cross Validation and Hyperparameter Tuning
+2. Supervised Learning
+3. Unsupervised Learning
+4. Semi Supervised Learning
+5. Reinforcement Learning
 
 
 ## Practicalities of Real Data
