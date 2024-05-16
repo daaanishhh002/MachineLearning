@@ -16,8 +16,7 @@
 ## About Machine Learning
 1. Introduction to Machine Learning
 2. Machine Learning Terminology
-3. Evaluation Metrics
-4. Cross Validation and Model Tuning
+3. Model Evaluation and Tuning
 
 
 ## Feature Engineering
