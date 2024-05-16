@@ -17,6 +17,7 @@
 1. Introduction to Machine Learning
 2. Machine Learning Terminology
 3. Evaluation Metrics
+4. Cross Validation and Model Tuning
 
 
 ## Feature Engineering
@@ -27,13 +28,11 @@
 5. Feature Encoding
 
 
-## Model Training and Tuning
-1. Cross Validation and Hyperparameter Tuning
-2. Supervised Learning
-3. Unsupervised Learning
-4. Semi Supervised Learning
-5. Reinforcement Learning
-
+## Machine Learning Algorithms
+1. Supervised Learning
+2. Unsupervised Learning
+3. Natural Language Processing
+4. Reinforcement Learning
 
 ## Practicalities of Real Data
 1. Large Datasets
@@ -43,14 +42,6 @@
 
 
 ## Pipelining, Deploying and Monitoring
-1. Pipelines
+1. Building Pipelines
 2. Model Deployment
 3. Monitoring Models
-
-
-## End to End Projects
-1. Skills Aggregator
-2. Sentiment Analysis
-3. Gold/Stock Market Prediction
-4. Book/Movie Recommender System
-5. Fake News Investigator and more.
