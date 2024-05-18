@@ -25,13 +25,15 @@
 3. Feature Transformation
 4. Feature Scaling 
 5. Feature Encoding
+6. Textual Representation
 
 
 ## Machine Learning Algorithms
 1. Supervised Learning
 2. Unsupervised Learning
-3. Natural Language Processing
+3. Semi Supervised Learning
 4. Reinforcement Learning
+
 
 ## Practicalities of Real Data
 1. Large Datasets
