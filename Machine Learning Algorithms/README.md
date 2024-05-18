@@ -23,22 +23,23 @@ Dive into the diverse world of machine learning with this comprehensive guide. F
 
 
 ## Unsupervised Learning
-1. K Means Clustering
-2. Hierarchial Clustering
-3. DBSCAN
-4. Principal Component Analysis
-5. t-sne
-6. Anomaly and Novelty Detection
-7. Association Rule
+1. Clustering
+    - K Means Clustering
+    - Hierarchial Clustering
+    - DBSCAN
+2. Dimensionality Reduction
+    - Principal Component Analysis
+    - t-sne
+3. Anomaly and Novelty Detection
+4. Association Rule
+    - Apriori Rule
+    - Eclat Algorithm
 
 
 ## Semi Supervised Learning
 1. Recommendation Systems
 2. Label Propagation
 3. Self Training
-
-
-## Natural Language Processing
 
 
 ## Reinforcement Learning
