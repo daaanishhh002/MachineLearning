@@ -13,14 +13,14 @@
 </p>
 
 
-## Introduction
+### Introduction
 1. About Machine Learning
 2. About Natural Language Processing
 3. Some Terminology
 4. Model Evaluation and Tuning
 
 
-## Feature Engineering
+### Feature Engineering
 1. Feature Construction
 2. Feature Selection
 3. Working with Numbers
@@ -32,21 +32,21 @@
     - Textual Representation
 
 
-## Machine Learning Algorithms
+### Machine Learning Algorithms
 1. Supervised Learning
 2. Unsupervised Learning
 3. Semi Supervised Learning
 4. Reinforcement Learning
 
 
-## Practicalities of Real Data
+### Practicalities of Real Data
 1. Large Datasets
 2. Imbalanced Datasets
 3. Multicollinearity
 4. Data Leakage
 
 
-## Pipelining, Deploying and Monitoring
+### Pipelining, Deploying and Monitoring
 1. Building Pipelines
 2. Model Deployment
 3. Monitoring Models
