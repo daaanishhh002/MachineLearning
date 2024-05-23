@@ -13,7 +13,7 @@
 </p>
 
 
-### `Introduction #fff000`
+### `Introduction #000000`
 1. About Machine Learning
 2. About Natural Language Processing
 3. Some Terminology
