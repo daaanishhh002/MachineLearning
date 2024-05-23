@@ -13,19 +13,23 @@
 </p>
 
 
-## About Machine Learning
-1. Introduction to Machine Learning
-2. Machine Learning Terminology
-3. Model Evaluation and Tuning
+## Introduction
+1. About Machine Learning
+2. About Natural Language Processing
+3. Some Terminology
+4. Model Evaluation and Tuning
 
 
 ## Feature Engineering
 1. Feature Construction
 2. Feature Selection
-3. Feature Transformation
-4. Feature Scaling 
-5. Feature Encoding
-6. Textual Representation
+3. Working with Numbers
+    - Feature Transformation
+    - Feature Scaling
+    - Feature Quantisation
+4. Working with Text
+    - Feature Encoding
+    - Textual Representation
 
 
 ## Machine Learning Algorithms
